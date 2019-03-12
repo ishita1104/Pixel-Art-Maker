@@ -15,3 +15,4 @@ This repository is a part of Udacity's Front End Developer-1 Nanodegree Project.
 
 ## Demo :
 
+![Screenshot 2019-03-12 at 9 43 17 PM](https://user-images.githubusercontent.com/32163127/54217786-4ae8a800-4512-11e9-8fc8-47dfbe00ad92.png)
